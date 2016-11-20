@@ -1,4 +1,4 @@
-
+Breyting á skjalinu
 #GitHub einstaklingsverkefni 
 
 ##Árekstur (branches and merge)
